@@ -1,0 +1,3 @@
+#this is a post from japan
+* this is a bullet 
+sample text
